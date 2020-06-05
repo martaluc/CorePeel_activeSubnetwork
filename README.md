@@ -58,7 +58,7 @@ The output files are three:
 	
 	1)  DEGs_enrich.txt includes the p-value for each module.
 	
-	2) MultipleModules.txt contains all the significant modules according to the p-value threshold (defaulf 0.01).
+	2) MultipleModules.txt contains all the significant modules according to the p-value threshold (default 0.01).
 	
 	3) SingleModule.txt includes all the genes of the active subnetwork after merging all the significant modules.
 
