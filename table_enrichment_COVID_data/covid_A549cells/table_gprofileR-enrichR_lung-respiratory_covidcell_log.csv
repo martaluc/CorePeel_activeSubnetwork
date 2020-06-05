@@ -1,0 +1,14 @@
+Pathway,Core.Peel_d0.5.j0.8,Core.Peel_d0.7.j0.8,ClustEx_900,ClustEx_420,MD,KPM,DEGs,database
+respiratory burst,5.86066756150752,3.22495326775177,NA,NA,NA,NA,NA,GO:BP
+respiratory burst involved in defense response,3.15910472739969,NA,NA,NA,NA,NA,NA,GO:BP
+regulation of respiratory burst,1.84005792742711,NA,NA,NA,NA,NA,NA,GO:BP
+negative regulation of respiratory burst,1.55787050995854,NA,NA,NA,NA,NA,NA,GO:BP
+respiratory burst after phagocytosis,1.40736800507447,2.03780173209005,NA,NA,NA,NA,NA,GO:BP
+Abnormal respiratory system morphology,4.31104033650968,5.22099549661429,1.55407936367802,NA,NA,NA,NA,HP
+Abnormality of the upper respiratory tract,NA,2.12175641594181,NA,NA,NA,NA,NA,HP
+Abnormality of the respiratory system,NA,2.10849876657795,1.7737402109766,NA,NA,NA,NA,HP
+Absence of bactericidal oxidative respiratory burst in phagocytes,NA,1.52209791594099,NA,NA,NA,NA,NA,HP
+Abnormal lung morphology,6.08436047597434,7.0787455545161,2.03380150570027,NA,NA,NA,NA,HP
+Obstructive lung disease,1.86384752626526,2.50482340470785,NA,NA,NA,NA,NA,HP
+Lung disease,4.84727643060589,4.92253738187039,2.57011009183379,2.06835500853332,2.01108817648813,NA,NA,DISEASES
+Lung fibrosis WP3624,NA,NA,4.08216203209454,2.15103584256413,NA,NA,NA,WikiPathways
