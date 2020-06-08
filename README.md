@@ -1,5 +1,5 @@
 # Core&Peel_activeSubnetwork
-This repository was made with the intent to get reproducible the results of  “Finding disease modules for cancer and COVID-19 in gene co-expression networks with the Core&Peel method”.
+This repository was made with the intent to ensure reproducibility of the results of  “Finding disease modules for cancer and COVID-19 in gene co-expression networks with the Core&Peel method”.
  
 This repository contains:
 
